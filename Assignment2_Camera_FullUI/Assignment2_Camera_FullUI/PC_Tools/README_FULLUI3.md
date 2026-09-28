@@ -1,0 +1,1 @@
+FullUI3: use webpage calibration, not the legacy calibrate.py Config.h pixel-K workflow. Existing capture_dataset.py and log_results.py can still read /capture and /results; coordinates now use image_w/image_h, which vary with resolution. Model input diagnostics are at /model-input. Serial baud115200.
