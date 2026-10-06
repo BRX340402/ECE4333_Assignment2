@@ -1,0 +1,1 @@
+PASS: settings controls, original control IDs, ROI, same-frame display, calibration, invalid-size rejection, UNO gating, mobile layout
